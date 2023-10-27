@@ -1,6 +1,6 @@
 
 # Gerenciador de Servidores
-Este é um script em Python que permite gerenciar servidores de banco de dados. É possível adicionar, listar e selecionar servidores.
+Este é um script em Python que permite gerenciar a escolha de servidores de banco de dados para uma aplicação. É possível adicionar, listar e selecionar servidores.
 
 ## Funcionalidades
 
